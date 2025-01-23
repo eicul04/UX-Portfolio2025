@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fccee504-4efe-4574-a94c-f1f887edc926" name="Changes" comment="Restructure for githubpages" />
+    <list default="true" id="fccee504-4efe-4574-a94c-f1f887edc926" name="Changes" comment="Restructure for githubpages">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +39,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Development/CORGA/frontend" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -48,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1737646541130</updated>
       <workItem from="1737646550819" duration="283000" />
-      <workItem from="1737646884165" duration="1906000" />
+      <workItem from="1737646884165" duration="2578000" />
     </task>
     <task id="LOCAL-00001" summary="Add Index.html">
       <created>1737646987995</created>
