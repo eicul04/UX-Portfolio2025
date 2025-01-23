@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fccee504-4efe-4574-a94c-f1f887edc926" name="Changes" comment="Add Portfolio Illustration">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortfolioPage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/PortfolioPage/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="fccee504-4efe-4574-a94c-f1f887edc926" name="Changes" comment="Add Intro Section" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1737659928406</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add Intro Section">
+      <created>1737660718237</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1737660718237</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +126,7 @@
     <MESSAGE value="Add new page master project" />
     <MESSAGE value="Update grid" />
     <MESSAGE value="Add Portfolio Illustration" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Portfolio Illustration" />
+    <MESSAGE value="Add Intro Section" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Intro Section" />
   </component>
 </project>
