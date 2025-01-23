@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fccee504-4efe-4574-a94c-f1f887edc926" name="Changes" comment="Add Intro Section" />
+    <list default="true" id="fccee504-4efe-4574-a94c-f1f887edc926" name="Changes" comment="Update Portfolio" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1737660718237</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Update Portfolio">
+      <created>1737661210089</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1737661210089</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +134,7 @@
     <MESSAGE value="Update grid" />
     <MESSAGE value="Add Portfolio Illustration" />
     <MESSAGE value="Add Intro Section" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Intro Section" />
+    <MESSAGE value="Update Portfolio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Portfolio" />
   </component>
 </project>
