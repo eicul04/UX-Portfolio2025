@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fccee504-4efe-4574-a94c-f1f887edc926" name="Changes" comment="Add Cards">
-      <change afterPath="$PROJECT_DIR$/PortfolioPage/masterProject.html" afterDir="false" />
+    <list default="true" id="fccee504-4efe-4574-a94c-f1f887edc926" name="Changes" comment="Update grid">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PortfolioPage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/PortfolioPage/index.html" afterDir="false" />
     </list>
@@ -78,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1737658397515</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add new page master project">
+      <created>1737658875224</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737658875224</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +105,8 @@
     <MESSAGE value="Add Index.html" />
     <MESSAGE value="Restructure for githubpages" />
     <MESSAGE value="Add Cards" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Cards" />
+    <MESSAGE value="Add new page master project" />
+    <MESSAGE value="Update grid" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update grid" />
   </component>
 </project>
